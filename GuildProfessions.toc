@@ -1,0 +1,8 @@
+## Interface: 11505
+## Title: Guild Professions Sync
+## Notes: Share and view guild members' professions
+## Author: Uppah
+## Version: 1.0
+## DefaultState: Enabled
+
+GuildProfessionsCore.lua
